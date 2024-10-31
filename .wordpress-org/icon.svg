@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866663 33.866667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="icon-256x256.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#7d7d7d"
+     borderopacity="0.49019608"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="87.045108"
+     inkscape:cy="4.0494139"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg8"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-paths="true"
+     units="px"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-intersection-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4499"
+       spacingx="5.2916667"
+       spacingy="5.2916667"
+       empspacing="20"
+       dotted="true"
+       originx="29.539864"
+       originy="-28.283921" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     transform="rotate(15.000001)"
+     ry="2.645833"
+     rx="2.6458333"
+     y="-2.3367293"
+     x="6.4285941"
+     height="28.620827"
+     width="28.620827"
+     id="rect1608-1-0-2"
+     style="display:inline;fill:#fbce2f;fill-opacity:1;stroke:none;stroke-width:0.529164;stroke-linecap:round;stroke-linejoin:round" />
+  <g
+     id="g940"
+     transform="matrix(0.43082239,0,0,0.43339731,-225.18761,-289.04395)"
+     style="stroke-width:1.22461682">
+    <g
+       id="g27312"
+       transform="matrix(0.61223834,-0.6107172,0.61223834,0.6107172,-277.72919,653.17233)"
+       style="stroke-width:1.41613574">
+      <path
+         id="path27305"
+         style="fill:none;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.41613574;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+         d="m 636.10663,725.86047 h 27 l 6,6 -6,6 h -27 z"
+         sodipodi:nodetypes="cccccc" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.41613574;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+         id="circle27307"
+         cx="659.60657"
+         cy="731.86047"
+         r="2.25" />
+    </g>
+    <g
+       id="g27316"
+       transform="matrix(0.61223834,-0.6107172,0.61223834,0.6107172,-277.60611,670.56876)"
+       style="stroke-width:1.41613574">
+      <path
+         id="rect27302"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.41613574;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+         d="m 636.10663,705.86047 h 27 l 6,6 -6,6 h -27 z"
+         sodipodi:nodetypes="cccccc" />
+      <circle
+         style="fill:#fbce2f;fill-opacity:1;stroke:#fbce2f;stroke-width:1.41613574;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+         id="path27300"
+         cx="659.60657"
+         cy="711.86047"
+         r="2.25" />
+    </g>
+  </g>
+</svg>
